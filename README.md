@@ -9,7 +9,7 @@ Most of my project work lives in private repositories or locally on my machine, 
 ---
 
 #### Systems
-- **Embedded Real-Time OS Kernel** — Preemptive RTOS on ARM Cortex-M4 in C/Assembly; rate-monotonic scheduler, priority ceiling protocol, MMIO-based GPIO/I2C drivers.
+- **Embedded Real-Time OS Kernel** — Preemptive RTOS on ARM Cortex-M4 in C/Assembly; rate-monotonic scheduler, priority ceiling protocol, MMIO-based GPIO/I2C drivers. [More Detailed Write-Up Here](writeups/embedded-rtos-writeup.md)
 - **CloudFS** — Hybrid cloud-backed file system in C++ (FUSE, AWS); segment deduplication, snapshot-based fault tolerance, write-back caching. [More Detailed Write-Up Here](writeups/cloudfs-writeup.md)
 - **MyFTL** — Flash translation layer in C++; page-level mapping, garbage collection, and wear leveling for SSD read/write management.
 - **Distributed File System** — Distributed file system in Java using a custom RMI framework; replication, load balancing, and concurrency control.
